@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/Akuu269/git-demo.git"
   },
+  "bin": {
+    "MyMkdir": "Mkdir.js"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {

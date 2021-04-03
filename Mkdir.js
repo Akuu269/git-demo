@@ -20,7 +20,7 @@ let fs = require("fs");
     }
 }
 }catch(err){
-    console.log("some error is detected , possiably n is greater than expected")
+    console.log("some error is detected , possiably n is greater than expected and n is not valid.")
 
 }
 
